@@ -1,7 +1,7 @@
 # noviavirtual
 Chat de Novia virtual en inglés escrito en Python
 
-El codigo se compila utilizando PyTorch, las instrucciones para instalarlo se encuentran directamente en la página oficial: https://pytorch.org/get-started/locally/
+El codigo se compila utilizando PyTorch, las instrucciones para instalarlo se encuentran directamente en la página oficial: https://pytorch.org/get-started/locally/ (Recomiendo utilizar la plataforma de CPU) 
 También utiliza varias librerías que pueden verse directamente en el código.
 
 Como se puede observar funciona con ChatGPT2, el programa despliega una ventana tipo chat para interactuar con la "Novia virtual" solamente en inglés.
